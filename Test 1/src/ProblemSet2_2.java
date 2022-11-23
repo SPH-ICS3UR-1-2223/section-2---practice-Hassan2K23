@@ -7,14 +7,5 @@ public class ProblemSet2_2 {
     	System.out.println("  O      O  ");
         System.out.println("  #  L  #  ");
         System.out.println("    ____   ");
-        
-        
-        
-        
-        
-        
-        
-        
-        
-    } 
-}
+        } 
+		}

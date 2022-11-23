@@ -11,8 +11,5 @@ public class ProblemSet2_1 {
         System.out.println(" X   XXXXXXX   X");
         System.out.println("   X         X ");
         System.out.println("     XXXXXXXX  ");
-        
-        
-        
-    }   
-}
+        }   
+		}
